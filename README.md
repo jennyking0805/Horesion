@@ -1,4 +1,4 @@
-# Horeison Social Solution Services
+# Horiseon Social Solution Services
 
 ## What we provide:
 
@@ -6,7 +6,7 @@
 * Online Reputation Management
 * Social Media Marketing
 
-## Horeison
-[Horeison](https://jennyking0805.github.io/Horesion/)
+## Horiseon
+[Horiseon](https://jennyking0805.github.io/Horesion/)
 
 ![](/assets/images/Horeison-website-image.png)

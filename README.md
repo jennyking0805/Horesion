@@ -9,4 +9,4 @@
 ## Horeison
 [Horeison](https://jennyking0805.github.io/Horesion/)
 
-![](images/Horeison-website-image.png)
+![](/assets/images/Horeison-website-image.png)

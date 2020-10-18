@@ -7,4 +7,4 @@
 * Social Media Marketing
 
 ## Horeison
-* [Horeison] (https://jennyking0805.github.io/Horesion/)
+[Horeison] (https://jennyking0805.github.io/Horesion/)

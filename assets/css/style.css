@@ -48,6 +48,8 @@ p {
     font-size: 16px;
 }
 
+/* End Header styles */
+
 /* Hero style start */
 
 .hero {
@@ -69,6 +71,7 @@ p {
     float: right;
     margin-left: 25px;
 }
+ /* Content styles */
 
 .content {
     width: 75%;
@@ -120,6 +123,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* End content styles */
 
 .footer {
     padding: 30px;
